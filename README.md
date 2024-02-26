@@ -27,8 +27,8 @@ The code was written to provide a RESTful API for managing tanks and profiles in
 The API can be used to integrate tank and profile management functionality into web or mobile applications.
 
 ## Two Truths and a Lie
-1. I have been to Antarctica.
-2. I have climbed Mount Everest.
-3. I have swum with sharks in the Great Barrier Reef.
+1. I cannot swim
+2. I use three phones everyday
+3. I dont hate anyone
 
 Can you guess which one is the lie?
