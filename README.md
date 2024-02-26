@@ -29,6 +29,6 @@ The API can be used to integrate tank and profile management functionality into 
 ## Two Truths and a Lie
 1. I cannot swim
 2. I use three phones everyday
-3. I dont hate anyone
+3. I went to wolmers
 
 Can you guess which one is the lie?
