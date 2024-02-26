@@ -27,7 +27,7 @@ The code was written to provide a RESTful API for managing tanks and profiles in
 The API can be used to integrate tank and profile management functionality into web or mobile applications.
 
 ## Two Truths and a Lie
-1. I cannot swim
+1. I can swim
 2. I use three phones everyday
 3. I went to wolmers
 
